@@ -12,10 +12,6 @@ autoinstall:
 
   packages:
     - net-tools
-    - iftop
-    - iotop
-    - vnstat
 
   package_update: true
   package_upgrade: true
-
